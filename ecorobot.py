@@ -3,7 +3,7 @@ import google.generativeai as genai
 import re
 import time # 피드백 후 잠시 대기를 위해 추가
 
-MY_API_KEY = "AIzaSyDJtKVtoo3hbDcOUSlTO91eVqa8Zfq0LpQ"
+MY_API_KEY = "AIzaSyB623rPx1DpwmDcuDohj0do3wirTinryGs"
 
 # 성격 튜닝 값에 따라 이모지 다르게 표시하기
 def get_emoji(positivity, empathy):
